@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net" modified="2024-03-14T09:45:12.224Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="s_bzX9WWT5YZrKXlDeNU" version="24.0.6" type="device">
+  <diagram id="J52kcZQugxbNnS_E8DSb" name="Страница — 2">
+    <mxGraphModel dx="1836" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R9xWFhloaEmlobQUcY_V-2" value="" style="endArrow=none;html=1;rounded=0;" parent="1" target="R9xWFhloaEmlobQUcY_V-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-60" y="320" as="sourcePoint" />
+            <mxPoint x="680" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9xWFhloaEmlobQUcY_V-3" value="Отсутствие контроля за выполнением задач" style="triangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="270" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="R9xWFhloaEmlobQUcY_V-9" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="AMfXkXKEjn35f7d7BUdH-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="520" as="sourcePoint" />
+            <mxPoint x="400" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9xWFhloaEmlobQUcY_V-10" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="AMfXkXKEjn35f7d7BUdH-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="560" as="sourcePoint" />
+            <mxPoint x="560" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9xWFhloaEmlobQUcY_V-11" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="80" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9xWFhloaEmlobQUcY_V-16" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="320" as="sourcePoint" />
+            <mxPoint x="40" y="80" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9xWFhloaEmlobQUcY_V-17" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="AMfXkXKEjn35f7d7BUdH-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="sourcePoint" />
+            <mxPoint x="240" y="120" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AMfXkXKEjn35f7d7BUdH-1" value="Отсутствие четкого описания задач" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="200" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AMfXkXKEjn35f7d7BUdH-3" value="Отсутствие четкой цели" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="260" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AMfXkXKEjn35f7d7BUdH-4" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Несовместимое ПО или оборудование&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="190" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AMfXkXKEjn35f7d7BUdH-7" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Отсутствие четкого лидера проекта&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="340" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AMfXkXKEjn35f7d7BUdH-8" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;нестабильная работа оборудования&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="260" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AMfXkXKEjn35f7d7BUdH-9" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Отсутствие связи с руководителем проекта&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="360" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AMfXkXKEjn35f7d7BUdH-12" value="Оборудование" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AMfXkXKEjn35f7d7BUdH-13" value="Персонал" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="364" y="520" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AMfXkXKEjn35f7d7BUdH-14" value="Ответственный&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="520" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AMfXkXKEjn35f7d7BUdH-15" value="Материалы" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="70" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AMfXkXKEjn35f7d7BUdH-16" value="Время" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AMfXkXKEjn35f7d7BUdH-19" value="Отсутствие макета сайта" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="130" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AMfXkXKEjn35f7d7BUdH-20" value="Не настроена синхронизация изменений (GIT)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="120" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AMfXkXKEjn35f7d7BUdH-22" value="отсутствие интереса к проекту" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="400" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AMfXkXKEjn35f7d7BUdH-24" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Не установлены временные рамки выполнения работы&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="190" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AMfXkXKEjn35f7d7BUdH-25" value="Высокая загруженность" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="430" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AMfXkXKEjn35f7d7BUdH-27" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Не проведение&lt;/font&gt;&lt;span style=&quot;color: var(--mine-shaft); font-family: &amp;quot;Fira Sans&amp;quot;, sans-serif; text-align: start; background-color: initial;&quot;&gt;&amp;nbsp;meetings во время разработки проекта&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="120" width="110" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
